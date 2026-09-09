@@ -25,5 +25,5 @@ This laboratory assignment explores the fundamental mechanics of digital image r
 * **Union (`|`):** Merges high-bit structures together, producing a bright combined matrix.
 
 ##  File Index
-* `Lab2_Sampling_and_Arithmetic.ipynb` — Complete Jupyter execution notebook containing output plots and visualizations.
+* [Lab2_Sampling_and_Arithmetic.ipynb](Lab2_Sampling_and_Arithmetic.ipynb) — Complete Jupyter execution notebook containing output plots and visualizations.
 
