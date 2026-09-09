@@ -26,4 +26,4 @@ This laboratory assignment explores the mechanics of neighborhood-based spatial 
 
 ## File Index
 
-* [Lab3_Image_Mnupilatioins.ipynb](Lab3_Image_Mnupilations.ipynb) — Complete Jupyter execution notebook containing output convolution matrices, filtering pipelines, and comparative visualizations.
+* [Lab3_Image_Mnupilations.ipynb](Lab3_Image_Mnupilations.ipynb) — Complete Jupyter execution notebook containing output convolution matrices, filtering pipelines, and comparative visualizations.
