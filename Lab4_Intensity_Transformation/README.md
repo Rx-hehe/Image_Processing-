@@ -27,4 +27,4 @@ The following Python libraries are required to run this lab:
 
 ## File Index
 
-* [Lab4_Intensity_Transformation.ipynb](Lab4_Intensity_Transformation.ipynb) — Complete Jupyter execution notebook containing image processing pipelines, intensity transformations, and comparative side-by-side histogram visualizations.
+* [Lab4_Intensity_Transformation.ipynb](Lab4_Intensity_Transformations_&Filtering_Spatial_Domain.ipynb) — Complete Jupyter execution notebook containing image processing pipelines, intensity transformations, and comparative side-by-side histogram visualizations.
