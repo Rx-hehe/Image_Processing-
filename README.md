@@ -21,3 +21,7 @@ Welcome to my repository for the Image Processing curriculum. This space contain
   * Applied percentile-based intensity rescaling between the 3rd and 80th percentiles to stretch image contrast.
   * Implemented global histogram equalization to flatten intensity profiles and linearize cumulative distribution functions.
   * Executed multi-channel histogram specification to match color profiles between source and reference templates.
+* **Lab 5: Spatial Filtering & Image Sharpening
+  * Constructed manual 7×7 box averaging kernels alongside automated 5×5 and 21×21 Gaussian bell-curve smoothing operations.
+  * Implemented discrete second-order isotropic Laplacian derivative filters and high-frequency unsharp masking pipelines.
+  * Evaluated non-linear spatial restorations using structural median filtering against salt-and-pepper noise alongside edge-preserving photometric bilateral smoothing.
