@@ -25,3 +25,7 @@ Welcome to my repository for the Image Processing curriculum. This space contain
   * Constructed manual 7×7 box averaging kernels alongside automated 5×5 and 21×21 Gaussian bell-curve smoothing operations.
   * Implemented discrete second-order isotropic Laplacian derivative filters and high-frequency unsharp masking pipelines.
   * Evaluated non-linear spatial restorations using structural median filtering against salt-and-pepper noise alongside edge-preserving photometric bilateral smoothing.
+* **Lab 6: Frequency Domain Filtering**
+  * Explored two-dimensional Fourier-domain image processing and the relationship between spatial convolution and frequency-domain multiplication.
+  * Implemented Laplacian filtering directly in the frequency domain to emphasize high-frequency intensity transitions and edge structure.
+  * Converted horizontal and vertical Sobel kernels into frequency responses and combined their inverse-transformed outputs to generate a full edge-magnitude image.
