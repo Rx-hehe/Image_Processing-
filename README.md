@@ -29,3 +29,7 @@ Welcome to my repository for the Image Processing curriculum. This space contain
   * Explored two-dimensional Fourier-domain image processing and the relationship between spatial convolution and frequency-domain multiplication.
   * Implemented Laplacian filtering directly in the frequency domain to emphasize high-frequency intensity transitions and edge structure.
   * Converted horizontal and vertical Sobel kernels into frequency responses and combined their inverse-transformed outputs to generate a full edge-magnitude image.
+* **Lab 7: Image Segmentation & Feature Extraction**
+  * Applied Canny edge detection with double thresholding and hysteresis to identify sharp image boundaries.
+  * Detected Harris corners on a checkerboard image and visualized strong corner responses with red markers.
+  * Used Otsu's automatic thresholding to segment a grayscale image and compared the original, intensity histogram, and binary result.
