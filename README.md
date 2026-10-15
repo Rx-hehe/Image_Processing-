@@ -33,3 +33,7 @@ Welcome to my repository for the Image Processing curriculum. This space contain
   * Applied Canny edge detection with double thresholding and hysteresis to identify sharp image boundaries.
   * Detected Harris corners on a checkerboard image and visualized strong corner responses with red markers.
   * Used Otsu's automatic thresholding to segment a grayscale image and compared the original, intensity histogram, and binary result.
+* **Lab 8: Morphological Image Processing**
+  * Generated a binary test image containing filled and hollow geometric shapes with reproducible salt noise.
+  * Applied erosion, dilation, opening, and closing using a 5×5 square structuring element and a custom radius-5 circular kernel.
+  * Compared the effects of kernel shape and size on object boundaries, thin outlines, noise removal, and gap filling.
